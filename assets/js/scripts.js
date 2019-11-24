@@ -1,5 +1,5 @@
 var jumboDate = moment().format("dddd, MMMM D YYYY");
-var currentHour = (moment().format("HH")-8);
+var currentHour = (moment().format("HH"));
 $("#currentDay").text(jumboDate);
 console.log(moment().format("MM ddd, YYYY hh:mm:ss a"));
 console.log(moment().format("dddd, MMMM D YYYY"));
