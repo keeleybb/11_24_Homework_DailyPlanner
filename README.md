@@ -1,8 +1,9 @@
 # Daily Scheduler 
 This scheduler was created for a bootcamp homework assingment. I used jquery to create the table of hours, Meetings and save buttons. I used moments.js to get the date and hours. 
 
-When loaded the page will show the current date and grey, red and green backgrounds for each meeting td to show whats in the past, present and future. 
-Users can save meetings into the daily scheduler and they will be displayed on refresh. 
+When loaded the page will show the current date and grey, red and green backgrounds for each meeting td to show whats in the past, present and future. Users can save meetings into the daily scheduler and they will be displayed on refresh. 
+
+See it in action: https://keeleybb.github.io/11_24_Homework_DailyPlanner/
 
 ## This page utilizes
 * jquery
